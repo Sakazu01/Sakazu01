@@ -1,4 +1,4 @@
-## Hey, I'm Ariel 👋<br><br>Computer Science student at ITB passionate about AI/ML, software engineering, and building impactful tech solutions.<br><br> About Me<br><br>* Interested in AI, Machine Learning, and Backend Development<br>* 🛠️ Building projects, joining competitions, and learning by doing<br>*  Open to collaborations and interesting ideas<br>*  Currently learning about  AI/ML<br>
+## Hey, I'm Ariel 👋<br><br>Computer Science student at ITB passionate about AI/ML, software engineering, and building impactful tech solutions.<br><br> About Me<br><br>* Interested in AI and Software Development<br>*  Building projects, joining competitions, and learning by doing<br>*  Open to collaborations and interesting ideas<br>*  Currently learning about  AI/ML<br>
 
 
 ## 🌐 Socials:

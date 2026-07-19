@@ -1,4 +1,4 @@
-## Hey, I'm Ariel 👋  arielsitorus.vercel.app
+## Hey, I'm Ariel 👋  Portfolio: https://arielsitorus.vercel.app/
 
 Computer Science student at ITB passionate about AI/ML, software engineering, and building impactful tech solutions.
 

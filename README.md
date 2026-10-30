@@ -1,4 +1,4 @@
-## Hey, I'm Ariel 👋  **[About Me](https://www.buildwithariel.com/)**
+# Hey  *[About Me](https://www.buildwithariel.com/)*
 
 Computer Science student at ITB passionate about AI/ML, software engineering, and building impactful tech solutions.
 
